@@ -1,0 +1,387 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A description of the passage of Thomas late Earle of Strafford, over the river of Styx, with the conference betwixt him, Charon, and William Noy.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81358</idno>
+            <idno type="STC">Wing D1166</idno>
+            <idno type="STC">Thomason E156_21</idno>
+            <idno type="STC">ESTC R9191</idno>
+            <idno type="EEBO-CITATION">99873495</idno>
+            <idno type="PROQUEST">99873495</idno>
+            <idno type="VID">156881</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81358)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156881)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 28:E156[21])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A description of the passage of Thomas late Earle of Strafford, over the river of Styx, with the conference betwixt him, Charon, and William Noy.</title>
+               </titleStmt>
+               <extent>[8] p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeare 1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With a title-page woodcut.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Signatures: A⁴.</note>
+                  <note>Variant: title has "the of river of Styx" [sic].</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Strafford, Thomas Wentworth, --  Earl of, 1593-1641 --  Early works to 1800.</term>
+               <term>Noy, William, 1577-1634 --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156881:1"/>
+            <pb facs="tcp:156881:1" rendition="simple:additions"/>
+            <p>A DESCRIPTION Of the Paſſage of THOMAS late Earle of STRAFFORD, over the River of Styx, with the confe<g ref="char:EOLhyphen"/>rence betwixt him, CHARON, and WILLIAM NOY.</p>
+            <p>Printed in the yeare 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb facs="tcp:156881:2"/>
+            <pb facs="tcp:156881:2"/>
+            <head>A Dialogue, &amp;c.</head>
+            <sp>
+               <speaker>Charon.</speaker>
+               <p>
+                  <seg rend="decorInit">I</seg>N the name of <hi>Rhodom<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nt</hi> what ayles me? I have tuggd, and tuggd above theſe two houres, yet can hardly ſteere one foot forward: either my dried nerves deceive my arme, or my vex'd Barke carries an unwonted burden. From whence com'ſt thou Paſſenger?</p>
+            </sp>
+            <sp>
+               <speaker>Straff.</speaker>
+               <p>From England.</p>
+            </sp>
+            <sp>
+               <speaker>Char.</speaker>
+               <p>From England, ha, I was counſaild to prepare my ſelfe, and to trim up my boat, I ſhould have work enough, they ſayd, <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>re be long from England, but truſt me thy burden alone out<g ref="char:EOLhyphen"/>weighes many tranſported Armies, were all the expected numbers of thy weight, poor <hi>Charon</hi> well might ſweat.</p>
+            </sp>
+            <sp>
+               <speaker>Straff.</speaker>
+               <p>I beare them all in one.</p>
+            </sp>
+            <sp>
+               <speaker>Char.</speaker>
+               <p>How <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> beare them all in one, and thou ſhalt pay for them all in one, by the juſt ſoule of <hi>Rhodom<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nt</hi> this was a fine plot indeed, ſure this was ſome notable fellow being alive, that hath a trick to couſen the divell being dead; What is thy name? (<hi>Strafford</hi> ſighes)</p>
+            </sp>
+            <sp>
+               <speaker>Char.</speaker>
+               <p>Sigh not ſo deepe, take ſome of this Lethaean water into thy thinne hand, and ſoope it up, it will make thee forget thy ſorrowes.</p>
+            </sp>
+            <sp>
+               <speaker>Straff.</speaker>
+               <p>My name is <hi>Wentworth,</hi> Straffords late Earle.</p>
+            </sp>
+            <sp>
+               <speaker>Char.</speaker>
+               <p>
+                  <hi>Wentworth,</hi> O, ho! thou art hee who hath beene ſo long expected by <hi>William Noy,</hi> he hath beene any time theſe two moneths on the other ſide of the banke, expecting thy com<g ref="char:EOLhyphen"/>ming daily.</p>
+            </sp>
+            <pb facs="tcp:156881:3"/>
+            <sp>
+               <speaker>Straff.</speaker>
+               <p>Knows <hi>Charon Noy</hi> ſo well.</p>
+            </sp>
+            <sp>
+               <speaker>Char.</speaker>
+               <p>Know him, I, I warrant you, he is knowne here very well, he can no ſooner get out of the Lawyers company (as w<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> have a boundance of your Lawyers here) but you ſhall have him ſomtimes with boyes at nine pinnes, ſomtimes he will by fudling with a Tinker, ſomtime he hath a crotchet to venture a fall with a wraſtler, though hee be ſure to get the fall him<g ref="char:EOLhyphen"/>ſelfe, he is for all companies; hee ſerv'd me ſuch a tricke the other day.</p>
+            </sp>
+            <sp>
+               <speaker>Straff.</speaker>
+               <p>What was it <hi>Charon?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Char.</speaker>
+               <p>Tell thee, and thou wilt go neare to ſhew ſuch me ano<g ref="char:EOLhyphen"/>ther tricke thy ſelfe before I part with thee, thou lookſt juſt of his complexion; marry he had begot a whimſey, what do you call it, a project, I a project, that out of the ſmall Incomes that I receive, which is but a halfe-penny a Ghoſt, I ſhould pay a penny out of every paſſenger I do tranſport, as a gratification, or rentage to great <hi>Pluto,</hi> but had hee come under the reacl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of this my Ebon Oare, I would have ſo ſpread his ſhade. Looke yonder where hee is.</p>
+            </sp>
+            <sp>
+               <speaker>Sraff.</speaker>
+               <p>
+                  <hi>Charon</hi> take there thy waftage hire.</p>
+            </sp>
+            <sp>
+               <speaker>Char.</speaker>
+               <p>What but one halfe-penny, I thought he would have payd me for a thouſand at leaſt, this is juſt poore ferrimens fortune, when they have once landed their paſſengers they may look for their fare where they can get it. Well, goe thy waies for a heavy Ghoſt, neither <hi>Pompey</hi> the great, nor <hi>Alex<g ref="char:EOLhyphen"/>ander</hi> before him did make my boat to draw ſo deep, I doe not think but that hee hath devour'd three kingdomes, and beares all the excrement and garbidge of them along with him.</p>
+            </sp>
+            <stage>Exit. Charon.</stage>
+            <sp>
+               <speaker>Straff.</speaker>
+               <p>Either my diſcontinued eye or my remembrance much deceiveth me or your name is <hi>Noy.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Noy.</speaker>
+               <p>My Lord, when laſt I ſaw you, you were but Sir <hi>Thomas Wentworth,</hi> ſince I have underſtood, the royall favours of his Majeſty meeting with your merits hath made you Earle of
+<pb facs="tcp:156881:3"/>Strafford. It was a dignity which your abilities and your vert<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> well may chalenge.</p>
+            </sp>
+            <sp>
+               <speaker>Straff.</speaker>
+               <p>An undeſerved grace, Sir, which his Majeſty was pleaſed to conferre upon me; the eye of my Prince is like the eye of heaven, ſhines where he liſts, and looked with as much influence and glory on me, his loweſt ſhrub, as on the proudeſt Cedars.</p>
+            </sp>
+            <sp>
+               <speaker>Noy.</speaker>
+               <p>It is moſt true; nothing can parallell his royall vertues but themſelves, but (my Lord) pardon my curioſity, whoſe rudeneſſe would enquire what late newes doth our Climate vent?</p>
+            </sp>
+            <sp>
+               <speaker>Straff</speaker>
+               <p>The laſt newes is of my ſelfe.</p>
+            </sp>
+            <sp>
+               <speaker>Noy.</speaker>
+               <p>It muſt needs be then a hiſtory that is full of honour.</p>
+            </sp>
+            <sp>
+               <speaker>Straff.</speaker>
+               <l>It might have beene ſo Maſter <hi>Noy,</hi>
+               </l>
+               <l>But as a deſperate Merchant, when he may</l>
+               <l>Saile with ſucceſſe to his deſired port,</l>
+               <l>Doth rather chooſe a day of winde and darkeneſſe,</l>
+               <l>A day of tempeſt, when the angry ſea,</l>
+               <l>Tilts her bold billowes 'gainſt the baffeld clouds,</l>
+               <l>Deafes the fierce thunder with their lowder roare,</l>
+               <l>And puts the fire out from the lightning skies,</l>
+               <l>Too late repenting of his raſh adviſe,</l>
+               <l>Findes himſelfe faſt lock'd within the armes of death,</l>
+               <l>So I when honours circled me and peace</l>
+               <l>Did wooe my ſafety with a curteous ſmile,</l>
+               <l>I rather choſe to ſeeke out wayes to danger,</l>
+               <l>T'untye three Realmes, and with a fatall trip</l>
+               <l>Ungrounde the foote of Juſtice, and the Lawes,</l>
+               <l>To waken warre, and from her braſen den,</l>
+               <l>To rouſe my thunders from the Canons mouth,</l>
+               <l>And thus adventur'd whilſt my Barke touch'd heaven,</l>
+               <l>Seas upon waves, and waves ſurmounting ſeas,</l>
+               <l>They danc'd me downe into a vaſt abyſme,</l>
+               <l>Where I lay dockt in quicke ſands to imbrace</l>
+               <pb facs="tcp:156881:4"/>
+               <l>A certaine ruine. Doe you remember the petition of Right</l>
+               <l>Maſter <hi>Noy?</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Noy.</speaker>
+               <p>Yes very well, my Lord.</p>
+            </sp>
+            <sp>
+               <speaker>Straff.</speaker>
+               <p>Oh, had I there continued I might, outlive all dan<g ref="char:EOLhyphen"/>ger and ſecure my right, nor in the honours of my thriving name, had I need doubt my fate, or loſe my fame, Strafford had livd, though your preventing fate, that did my doome and death anticipate, call'd for a curteous dropſie.</p>
+            </sp>
+            <sp>
+               <speaker>Noy.</speaker>
+               <p>My Lord, I thanke God, I deſcended into the ſleepe of death, though not a ſound, yet a whole carcaſſe.</p>
+            </sp>
+            <sp>
+               <speaker>Straff.</speaker>
+               <p>But I diſmembred loſt my ſpited head.</p>
+            </sp>
+            <sp>
+               <speaker>Noy.</speaker>
+               <p>My Lord, me thinkes ſo vaſt a ſpirit as yours could do good ſervice without a head.</p>
+            </sp>
+            <sp>
+               <speaker>Straff.</speaker>
+               <p>What odde conceit rides on your fancy now?</p>
+            </sp>
+            <sp>
+               <speaker>Noy</speaker>
+               <p>My Lord, I will tell you, and ſince example is the moſt legible character give you an inſtance, how many hun<g ref="char:EOLhyphen"/>dred yeares hath <hi>Atlas</hi> borne heaven upon his ſhoulders, yet I could never read of any head of his that was ever ſeene. I know my Lord you have undertaken taskes would have made proude <hi>Atlas</hi> ſloope.</p>
+            </sp>
+            <sp>
+               <speaker>Straff.</speaker>
+               <p>And ſome of yours are imputed unto me: had I any head in ſuch and ſuch Patents and Monopolies, maſter <hi>Noy,</hi> had I any plot at all in the Ship money, and in many more pro<g ref="char:EOLhyphen"/>jects that I cou'd name which took their originall all from you.</p>
+            </sp>
+            <sp>
+               <speaker>Noy.</speaker>
+               <p>Your Lordſhip may uſe what liberty of ſpeech you pleaſe; but doe you thinke that my Lords grace of Canterbu<g ref="char:EOLhyphen"/>ry is ſo pleaſant above?</p>
+            </sp>
+            <sp>
+               <speaker>Straff.</speaker>
+               <l>No, no, all the mirth is with you Netherlanders:</l>
+               <l>He like the Roman <hi>Anthony,</hi> when hee</l>
+               <l>Try'd his laſt Fortunes in ſad <hi>Actiums</hi> fight,</l>
+               <l>And left the grappling Eagles and his honour,</l>
+               <l>To flye in's beauteous <hi>Cleopatra's</hi> Boat,</l>
+               <l>And quite aſham'd that any one but ſhee</l>
+               <l>Should owne that Fame to conquer <hi>Anthonie:</hi>
+               </l>
+               <pb facs="tcp:156881:4"/>
+               <l>His heart quite broken, and his head bow'd low,</l>
+               <l>Whiles eightſcore minutes were in numbring out,</l>
+               <l>Their meaſur'd ſands in the juſt glaſſe of time</l>
+               <l>Durſt not looke up towards heaven, nor tempt her eyes,</l>
+               <l>Her eyes to him a thouſand thouſand heavens,</l>
+               <l>More deare then thouſand conqueſts:</l>
+               <l>Juſt ſo his Grace, his ſadded head being layd</l>
+               <l>On both his hands, his elbowes on his knees,</l>
+               <l>Will ſilent leane two or three houres together;</l>
+               <l>And in that poſture (ſad) he now muſt leave her,</l>
+               <l>Stoopes to his Idoll, Greatneſſe.</l>
+            </sp>
+            <sp>
+               <speaker>Noy.</speaker>
+               <p>Are there no more, my Lord, of your party?</p>
+            </sp>
+            <sp>
+               <speaker>Straff.</speaker>
+               <p>Yes, I believe, many: but this preſent Parliament hath more eyes then <hi>Argus,</hi> more cleare then <hi>Lynceus,</hi> and as powerfull as the Sunne, and ſhould their numbers grow up like ſo many Hydra's, they can at once both obſerve them, and diſpell them.</p>
+            </sp>
+            <sp>
+               <speaker>Noy.</speaker>
+               <p>My Lord, how thrives the Romiſh faction?</p>
+            </sp>
+            <sp>
+               <speaker>Straff.</speaker>
+               <p>Troth I think but little, and I beleeve it is likely e<g ref="char:EOLhyphen"/>very day to grow leſſe and leſſe, the grave deportment of the Fryers, the ſanctimonious pretences of their Prieſts, prevaile but little, and worke in the people rather a ſuſpition then an imitation. It is thought beſides, that even from their Gownes and Cowles did ariſe the firſt grudgings and beginnings of the warre.</p>
+            </sp>
+            <sp>
+               <speaker>Noy.</speaker>
+               <p>I underſtood indeed that ſome Prieſts were ſeverely looked after: that newes I heard from <hi>Mercury.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Straff.</speaker>
+               <p>Now you talke of <hi>Mercury,</hi> there is a pretious gene<g ref="char:EOLhyphen"/>ration of <hi>Mercury's</hi> above.</p>
+            </sp>
+            <sp>
+               <speaker>Noy.</speaker>
+               <p>Of <hi>Mercury's?</hi> they are a people never before heard of, a Sect which no age ever underſtood. I beſeech your ho<g ref="char:EOLhyphen"/>nour to inſtruct me who and what they are.</p>
+            </sp>
+            <sp>
+               <speaker>Straff.</speaker>
+               <p>Why, there are men <hi>Mercury's,</hi> and women <hi>Mercu<g ref="char:EOLhyphen"/>ry's,</hi> and boy <hi>Mercury's; Mercury's</hi> of all ſexes, ſorts and ſizes;
+<pb facs="tcp:156881:5"/>and theſe are they that carry up and downe their Paſquils, and vent them unto ſhops.</p>
+            </sp>
+            <sp>
+               <speaker>Noy.</speaker>
+               <p>How is that taken?</p>
+            </sp>
+            <sp>
+               <speaker>Straff.</speaker>
+               <p>I know not; but their takings I beleeve are good e<g ref="char:EOLhyphen"/>nough. But had they carried abroad ſuch ware a yeare agoe, theſe <hi>Mercury's</hi> had need in earneſt to put wings unto their feet to make more haſte away.</p>
+            </sp>
+            <sp>
+               <speaker>Noy.</speaker>
+               <p>They may doe well to read <hi>Lucian,</hi> he will teach their Pamphlets wit and innocence.</p>
+            </sp>
+            <sp>
+               <speaker>Straff.</speaker>
+               <p>The Divell he will: excuſe me, Mr. <hi>Noy,</hi> not too much innocence I beſeech you; but let them write even what they will, the dead bite not, and if they bite not the dead I care not.</p>
+            </sp>
+            <sp>
+               <speaker>Noy.</speaker>
+               <p>Will your honour vouchſafe to draw unto our quar<g ref="char:EOLhyphen"/>ters, it will make good ſport for your Lordſhip to obſerve what devout cringes on their firſt comming the Atturney's and the Scriveners make to their little God Sir E. C. how with both hands lifted up, as he paſſeth by them, they will mumble their Pater noſters to him.</p>
+            </sp>
+            <sp>
+               <speaker>Straff.</speaker>
+               <p>Piſh, I neither need ſuch company, nor deſire it.</p>
+            </sp>
+            <sp>
+               <speaker>Noy.</speaker>
+               <p>In what place then will your honour chuſe to make your reſidence?</p>
+            </sp>
+            <sp>
+               <speaker>Straff.</speaker>
+               <p>In any place, ſo that I might have that which I come for, Reſt.</p>
+            </sp>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
